@@ -1,11 +1,13 @@
-Á´½Ó: https://pan.baidu.com/s/1_4nYoxsX2DM2Oi0y2zUf-w ÌáÈ¡Âë: pgwy ¸´ÖÆÕâ¶ÎÄÚÈİºó´ò¿ª°Ù¶ÈÍøÅÌÊÖ»úApp£¬²Ù×÷¸ü·½±ãÅ¶
-
-ÏÂÔØÏà¹Ø²å¼şµ½Ä¿Â¼ÏÂ
-
-php73Ä¿Â¼
-Chrome-binÄ¿Â¼
-chromedriver.exeÎÄ¼ş
+ä¸‹è½½é“¾æ¥: https://pan.baidu.com/s/1_4nYoxsX2DM2Oi0y2zUf-w æå–ç : pgwy
+å¤‡ç”¨åœ°å€: https://wwi.lanzoub.com/b04od94za  å¯†ç :accb
 
 
+ä¸‹è½½ç›¸å…³æ’ä»¶åˆ°ç›®å½•ä¸‹
 
-½«75.0.3770.80_chrome_installer.exe½âÑ¹µÃµ½Chrome-binÄ¿Â¼
+/php73/
+/Chrome-bin/
+/chromedriver.exe
+
+
+
+å°†XXX_chrome_installer.exeè§£å‹å¾—åˆ°Chrome-binç›®å½•
